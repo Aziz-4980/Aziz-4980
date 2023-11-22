@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aziz-4980&label=Profile%20views&color=0e75b6&style=plastic" alt="aziz-4980" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **MERN Stack and flutter**
 
 - 🌱 I’m currently learning **Blockchain**
 
